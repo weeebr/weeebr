@@ -7,7 +7,7 @@
  
 
 <div id="header" align="center">
-  <img src="https://pascal-weber.ch/static/media/pascal-weber-alternative.a713a8d75170d5c9b3e1.png" width="150" />
+  <img src="https://avatars.githubusercontent.com/u/1096639?v=4" width="150" />
 </div>
 
 <div id="header" align="center">
