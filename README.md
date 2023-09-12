@@ -19,6 +19,9 @@
 ### Experienced Frontend Engineer
 A passion for clean and elegant code, UX and details. Solution-oriented, pragmatic, engaged, and an empathetic, communicative team player.
 
+
+<a href="https://pascal-weber.ch">⇒ Check out my website!</a>
+
 ---
 
 ### Languages & Tools:
